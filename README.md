@@ -1,13 +1,13 @@
 <h1 align="center">🚀About Me</h1>
-<h3 align="center">DevOps/SRE, Low-Level Systems Engineer, Frontend Developer</h3>
+<h3 align="center">DevOps/SRE, Low-Level Systems Engineer,FullStack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=finzxy&label=Profile%20views&color=0e75b6&style=flat" alt="finzxy" /> </p>
 
-- 🧠 Currently Learning **system optimization, low-level Linux internals, Custom Window Manager (WM) Development**
+- 🧠 Currently Learning **system optimization, low-level Linux internals, And DotFiles Window Manager (WM) Development**
+
+- 💬 Ask me about **UNIX, Systemd, DWL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Finzxy](https://github.com/Finzxy)
-
-- 💬 Ask me about **UNIX**
 
 <h3 align="left">🧰 Languages and Tools:</h3>
 <p align="left">
