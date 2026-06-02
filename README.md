@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=finzxy&label=Profile%20views&color=0e75b6&style=flat" alt="finzxy" /> </p>
 
-- 🧠 Currently Learning **System Optimization, low-level Linux internals, And DotFiles Window Manager (WM) Development**
+- 🧠 Currently Learning **system optimization, low-level Linux internals, And DotFiles Window Manager (WM) Development**
 
 - 💬 Ask me about **UNIX, Systemd, DWL**
 
