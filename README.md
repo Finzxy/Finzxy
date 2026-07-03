@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=finzxy&label=Profile%20views&color=0e75b6&style=flat" alt="finzxy" /> </p>
 
-- 🧠 Currently Learning **system optimization, low-level Linux internals, And DotFiles Window Manager (WM) Development**
+-  Currently Learning **system optimization, low-level Linux internals, And DotFiles Window Manager (WM) Development**
 
-- 💬 Ask me about **Linux, Systemd, Wlr**
+-  Ask me about **Linux, Systemd, Wlr**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Finzxy](https://github.com/Finzxy)
+-  All of my projects are available at [https://github.com/Finzxy](https://github.com/Finzxy)
 
 <h3 align="left">🧰 Languages and Tools:</h3>
 <p align="left">
