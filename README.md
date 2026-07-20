@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=finzxy&label=Profile%20views&color=0e75b6&style=flat" alt="finzxy" /> </p>
 
--  Currently Learning **sysadmin, system optimization, low-level Linux internals, And DotFiles Window Manager (WM) Development**
+-  Currently Learning **system optimization, low-level Linux internals**
 
--  Ask me about **Linux, Systemd**
+-  Ask me about **GNU/Linux, Systemd**
 
 -  All of my projects are available at [https://github.com/Finzxy](https://github.com/Finzxy)
 
