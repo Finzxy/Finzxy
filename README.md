@@ -18,9 +18,9 @@
 </p>
 
 <div align="left">
-<img height="150em" src="https://github-readme-stats-fast.vercel.app/api?username=Finzxy&show_icons=false&theme=catppuccin_mocha&hide_border=true&cache_seconds=128"/>
+<img height="150em" src="https://github-readme-stats-fast.vercel.app/api?username=Finzxy&show_icons=false&theme=catppuccin_mocha&hide_border=true"/>
 
-<img height="150em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Finzxy&layout=compact&theme=catppuccin_mocha&hide_border=true&cache_seconds=128"/>
+<img height="150em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Finzxy&layout=compact&theme=catppuccin_mocha&hide_border=true"/>
 </div>
 
 
