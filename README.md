@@ -5,7 +5,7 @@
 
 -  Currently Learning **machine lerning, system reliability**
 
--  Ask me about **GNU/Linux, Low-Level System,**
+-  Ask me about **GNU/Linux, Low-Level System**
 
 -  All of my projects are available at [https://github.com/Finzxy](https://github.com/Finzxy)
 
